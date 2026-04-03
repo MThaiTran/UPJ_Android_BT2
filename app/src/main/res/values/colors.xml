@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="fruit_primary">#FF6F3C</color>
+    <color name="fruit_primary_dark">#E85B2C</color>
+    <color name="fruit_secondary">#2E7D32</color>
+    <color name="fruit_surface">#FFF8F3</color>
 </resources>
